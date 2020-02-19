@@ -1,0 +1,10 @@
+discord.py
+random
+pyowm
+datetime
+asyncio
+requests
+pyautogui
+aiohttp
+websockets
+chardet
